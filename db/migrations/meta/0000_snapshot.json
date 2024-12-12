@@ -1,11 +1,11 @@
 {
-  "id": "b5b3e45f-df12-4b67-b873-5a78d43cf075",
+  "id": "ec56ca09-8f1a-4a83-b3c9-635928b81bc9",
   "prevId": "00000000-0000-0000-0000-000000000000",
   "version": "7",
   "dialect": "postgresql",
   "tables": {
-    "public.todo1": {
-      "name": "todo1",
+    "public.todo": {
+      "name": "todo",
       "schema": "",
       "columns": {
         "id": {
